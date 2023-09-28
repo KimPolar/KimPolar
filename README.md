@@ -51,19 +51,12 @@ I am an student who analyst PUBG match data.
              </ul> 
           </td>
         </tr>
-      <tr>
-        <td colspan='3'>These <b>bold</b> texts are the ones I often use.</td>
-      </tr>
     </tbody>
 </table>
 
 ### Contact Us
 <ul>
-  <li><a href="mailto:gunyu1019@gmail.com">
-    Personal Gmail: gunyu1019@gmail.com
-  </a></li><li><a href="mailto:gunyu1019@yhs.kr">
-    Offical mail: gunyu1019@yhs.kr
-  </a></li><li><a href="mailto:gunyu1019@icmp.kr">
-    Team mail(Cailco Cheese): gunyu1019@icmp.kr
+  <li><a href="mailto:kimpolar@kda.r-e.kr">
+    Personal & Official Mail: kimpolar@kda.r-e.kr
   </a></li>
 </ul>
