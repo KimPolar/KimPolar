@@ -5,9 +5,6 @@
 </div>
 
 
-### Languages & Developing
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=KimPolar&theme=tokyonight&layout=compact)<br/>
-> Programming can be anything what wants<br/>
 
 ### Contact Us
 <ul>
